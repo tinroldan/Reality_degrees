@@ -1,0 +1,89 @@
+*{
+	
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Playfair Display', serif;
+
+
+
+	position: relative;
+
+}
+
+.contenedor{
+	position: relative;
+max-width: 1024px;
+height: 1366px;
+align-items: center;
+}
+
+.Titulo4{
+	position: absolute;
+width: 806px;
+height: 93px;
+left: 8px;
+top: 6px;
+}
+
+.Sourtoe{
+	position: absolute;
+width: 996px;
+height: 142px;
+left: 35px;
+top: 544px;
+}
+
+.Eggmeister{
+	position: absolute;
+width: 899px;
+height: 50px;
+left: 83px;
+top: 494px;
+
+}
+
+.Smoker{
+	position: absolute;
+width: 996px;
+height: 74px;
+left: 35px;
+top: 383px;
+}
+
+.Conquetier{
+	position: absolute;
+width: 996px;
+height: 74px;
+left: 43px;
+top: 272px;
+}
+
+.Bloody {
+	position: absolute;
+width: 1025px;
+height: 74px;
+left: 28px;
+top: 161px;
+
+}
+
+.Botellas{
+position: absolute;
+width: 223px;
+height: 474px;
+left: 99px;
+top: 798px;
+}
+
+.Flecha{
+	position: absolute;
+width: 90.46px;
+height: 58.15px;
+left: 98.51px;
+top: 1351.35px;
+
+}

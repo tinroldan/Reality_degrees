@@ -1,0 +1,47 @@
+*{
+	
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Playfair Display', serif;
+
+
+
+	position: relative;
+
+}
+
+.contenedor{
+	position: relative;
+max-width: 1024px;
+height: 1366px;
+align-items: center;
+}
+
+.Descripcion{
+	position: absolute;
+width: 870px;
+height: 566px;
+left: 37px;
+top: 184px;
+}
+
+.Foto{
+	position: absolute;
+width: 1028px;
+height: 792px;
+left: -4px;
+top: 798px;
+}
+
+.Flecha{
+
+position: absolute;
+width: 113.17px;
+height: 72.74px;
+left: 131.84px;
+top: 80.4px;
+}
