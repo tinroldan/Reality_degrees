@@ -1,0 +1,62 @@
+:root{
+    --primary-color: #cc0000;
+    --primary-color: #7c0000;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.app-header{
+    /* width: 90%;
+    margin: 0 auto;
+    padding: 10px;
+    overflow: none;
+
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+    size: auto; */
+    
+    
+}
+
+
+.main_container{
+    width:50%;
+    margin: 100px;
+    padding: 100px;
+    overflow: none;
+
+    display: flex;
+    flex-direction:column; 
+    
+    align-items:center;
+
+
+
+    /* box-sizing: border-box; */
+    
+
+}
+
+body{
+    background-image: url('img/fondo1.jpg');
+    background-position: center;
+    background-size: auto;
+    display: flex;
+    background-color: black;
+    align-items:center;
+    display: flex;
+    flex-direction:column; 
+    align-content: center;
+
+
+}
+
+/* .app-header  .container {
+    /* background-color: black; */
+    /* box-shadow: 3px 3px 10px #888; */
+
